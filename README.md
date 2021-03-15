@@ -17,6 +17,10 @@ _This heatmap indicated the number of bike trips filtered by each weekday for ev
 
 ![Citi Bike 3](https://user-images.githubusercontent.com/74740339/111094042-5b202d00-8508-11eb-81bc-9d782e8f8ad1.png)
 
-_This heatmap indicated the number of bike trips filtered by gender and each weekday for every hour of the day. As the heatmap suggests, bike trips are between 5-6 pm, with the highest number being on Thursday, primarily by male customers._
+_This heatmap indicated the number of bike trips filtered by gender and each weekday for every hour of the day. As the heatmap suggests, bike trips are the highest  between 5-6 pm, with the highest number being on Thursday, primarily by male customers._
 
 ![Citi Bike 4](https://user-images.githubusercontent.com/74740339/111094540-7f303e00-8509-11eb-82dc-1e7f553f176a.png)
+
+_This heatmap indicated the number of bike trips filtered by gender and each weekday. As the heatmap suggests, bike trips are the highest on Thursday and Friday, primarily by male customers._
+
+![Citi Bike 5](https://user-images.githubusercontent.com/74740339/111095002-7ee47280-850a-11eb-8f66-5f80de1e184d.png)
