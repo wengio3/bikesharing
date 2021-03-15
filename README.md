@@ -13,4 +13,6 @@ _This graph indicated how long bikes are checked out each time filtered by gende
 
 ![Citi Bike](https://user-images.githubusercontent.com/74740339/111093467-ff08d900-8506-11eb-9fe0-45be4f4ebb0f.png)
 
-This graph indicated the number of bikes trips filtered by each weekday for every hour of the day, and as the heatmap suggests, most of the time, bikes are checked out between the hours of 5-6 pm, with the highest number being on Thursday.
+_This heatmap indicated the number of bikes trips filtered by each weekday for every hour of the day, and as the heatmap suggests, most of the time, bikes are checked out between the hours of 5-6 pm, with the highest number being on Thursday._
+
+![Citi Bike 3](https://user-images.githubusercontent.com/74740339/111094042-5b202d00-8508-11eb-81bc-9d782e8f8ad1.png)
