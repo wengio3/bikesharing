@@ -40,3 +40,5 @@ _This distribution map indicated the areas where most bike trips end. As the map
 
 # Summary
 
+With this analysis, we can see that bike-share has a lot of demand for downtown areas, especially during rush hour. It is reasonable to start a business in Dess Moines, Iowa, and since bike-sharing is very affordable, it won't take too much capital to start. 
+
