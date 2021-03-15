@@ -5,8 +5,10 @@ This analysis is for a new bike-sharing business that is going to will be based 
 
 # Results
 
-This graph indicated how long bikes are checked out for each time, and as the chart suggests, most of the time, bikes are checked out for five minutes. 
+_This graph indicated how long bikes are checked out for each time, and as the chart suggests, most of the time, bikes are checked out for five minutes._ 
 
 ![Citi Bike](https://user-images.githubusercontent.com/74740339/111091098-e2b56e00-84ff-11eb-89fd-745143f71534.png)
 
-This graph indicated how long bikes are checked out each time filtered by gender, and as the chart suggests, most of the time, bikes are checked out for five minutes, primarily by male customers. 
+_This graph indicated how long bikes are checked out each time filtered by gender, and as the chart suggests, most of the time, bikes are checked out for five minutes, primarily by male customers._
+
+![Citi Bike](https://user-images.githubusercontent.com/74740339/111093467-ff08d900-8506-11eb-9fe0-45be4f4ebb0f.png)
