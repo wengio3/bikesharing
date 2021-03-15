@@ -1,4 +1,9 @@
 # bikesharing
+
+# tableau public
+
+[link to dashboard](https://public.tableau.com/profile/wengelawit.f.dedebar#!/vizhome/CitiBikeCruisin/CitiBike)
+
 # Overview 
 
 This analysis is for a new bike-sharing business that is going to will be based in Dess Moines, Iowa. Two friends came up with the business idea after a two-week trip to New York City. While on their trip, they freely moved around the city using Citi bikes and noticed many New Yorkers utilized Citi bikes.  We use data from the Citi Bike program in New York City all the August 2019 data for this project. We'll use data from August because there is likely more traffic during the summer months. With this analysis, we will be looking at what the bike-sharing business is like and if it can be replicable in Dess Moines, Iowa.
@@ -33,5 +38,5 @@ _This distribution map indicated the areas where most bike trips end. As the map
 
 ![Citi Bike 7](https://user-images.githubusercontent.com/74740339/111095856-5493b480-850c-11eb-95be-51476b1815e6.png)
 
-
+# Summary
 
